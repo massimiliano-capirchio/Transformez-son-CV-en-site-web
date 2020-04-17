@@ -45,3 +45,66 @@ h5, h6{
 .white{
     background-color: #fff;
 }
+
+/*-----------------------*/
+/* ==   BLOCK LEFT      */
+/*---------------------*/
+
+#photo{
+    display: block;
+    margin: 30px auto 30px auto;
+    border: 2px solid #ffab00; 
+}
+.left_title{
+    background-color: #404040;
+    color: #FECA07;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold; 
+}
+.p1{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    font-size: 26px;
+}
+a{
+    color: #404040; 
+ }
+ a:hover{
+     color:#ffff00;
+ }
+ a:visited{
+     color:#ff9e80;
+ }
+ h4{
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;
+    font-size: 28px;
+}
+#left_text{
+    text-align: justify;
+    margin: 20px 20px 640px 20px;
+    color: #404040;
+    font-size: 26px;
+}
+#leisure_icons{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+#leisure_icons i{
+    width: 85px;
+    height: 85px;
+    border: 4px solid #404040;
+    border-radius: 50%;
+    margin-top: 40px;
+}
+i.fa-swimmer, i.fa-bicycle, i.fa-table-tennis{
+    color: #404040;
+    font-size: 45px;
+}
+a:hover{
+    color: #ffff00;
+}
