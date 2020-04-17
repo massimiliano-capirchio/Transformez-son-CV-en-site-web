@@ -1,0 +1,23 @@
+/*-----------------------*/
+/* ==   COLOR CODES     */
+/*---------------------*/
+/*
+Couleur Material Design
+Icon Font-Awesome
+
+Grey (heading,text,links) : #404040
+Orange (background block1) : #FECA07
+Grey (Icon Font-Awesome) : #404040
+Yellow (:hover links) : #ffff00
+Pink (visited links) : #ff9e80
+Orange (divider) : #FECA07
+*/
+
+
+/*---------------------------*/
+/* ==  DEFINITIONS POLICES  */
+/*-------------------------*/
+
+*{
+    font-family: "calibri", Helvetica, Arial, sans-serif;
+}
