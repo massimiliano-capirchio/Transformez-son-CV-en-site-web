@@ -165,3 +165,86 @@
         margin-left: 20px;
     }
 }
+
+/*---------------------*/
+/* ==  Small devices  */
+/*-------------------*/
+
+
+@media only screen and (min-width: 561px) and (max-width: 768px){
+
+    .p1{
+        text-align: center;  
+        margin-right: 30px;
+        font-size: 32px;
+    }
+    h4{
+        font-size: 35px;
+    }
+    #left_text{
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    #leisure_icons i{
+        margin-top: 10px;
+    }
+    #block2{
+        margin-bottom: 60px;
+    }
+    #color_first_name{
+        font-size: 50px;
+        margin-left: 20px;
+    }
+    #color_name{
+        font-size: 50px;
+    }
+    #underline_word{
+        font-size: 40px;
+        margin-left: 23px;     
+    }
+    #block2 h3{
+        font-size: 40px; 
+    }
+    i.fa-graduation-cap,i.fa-briefcase, i.fa-pencil-alt{        
+        font-size: 50px;
+    }
+    .right_title{
+        font-size: 34px;
+    }
+    .orange_divider{
+        margin-top: 15px;
+    }
+    i.fa-dot-circle, i.fa-circle{
+        font-size: 22px;
+    }
+    .date{
+        font-size: 35px;
+        margin-top: -40px;
+        margin-left: 55px;
+    }
+    h5{
+        margin-top: 20px;
+        margin-left: 20px;
+        font-size: 35px;
+    }
+    h6{
+        margin-top: -30px;
+        margin-left: 20px;
+        font-size: 32px;
+    }
+    .right_text{   
+        margin-left: 20px;
+        font-size: 32px;
+    }
+    #ad_1, #ad_2{
+        font-size: 30px;
+        text-align: center;
+    }    
+    #ad_2 h6{       
+        margin-top: 40px;
+        margin-left: 0px;
+    }
+    #ad_2 p{
+        margin-left: 0px;       
+    }
+}
