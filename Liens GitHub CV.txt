@@ -1,8 +1,8 @@
 
 Lien GitHub:
 
-https://github.com/massimiliano-capirchio/Transformez-votre-CV-en-site-web.git
+https://github.com/massimiliano-capirchio/Transformez-son-CV-en-site-web.git
 
 Lien du CV hébergé sur GitHub :
 
-https://massimiliano-capirchio.github.io/Transformez-votre-CV-en-site-web/
+https://massimiliano-capirchio.github.io/Transformez-son-CV-en-site-web/
