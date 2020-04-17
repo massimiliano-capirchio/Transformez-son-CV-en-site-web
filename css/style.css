@@ -47,7 +47,7 @@ h5, h6{
 }
 
 /*-----------------------*/
-/* ==   BLOCK LEFT      */
+/* ==   LEFT BLOCK      */
 /*---------------------*/
 
 #photo{
@@ -107,4 +107,89 @@ i.fa-swimmer, i.fa-bicycle, i.fa-table-tennis{
 }
 a:hover{
     color: #ffff00;
+}
+
+/*-----------------------*/
+/* ==   RIGHT BLOCK     */
+/*---------------------*/
+
+
+#block2{
+    margin: 0px 0px 130px 20px;
+    padding-top: 30px;
+}
+#color_first_name{
+    color: #FECA07;    
+    font-size: 50px;
+}
+#color_name{
+    font-size: 50px;
+}
+#underline_word{
+    text-decoration: underline;
+    text-decoration-color:#FECA07;     
+}
+.orange_divider{
+    width: 93%;
+    height: 3px;
+    background: #FECA07;
+    margin: 2px 20px 20px 20px;
+}
+i.fa-dot-circle{
+    font-size: 18px;
+    margin-left: 15px;
+    color: #FECA07;
+}
+i.fa-circle{
+    font-size: 18px;
+    margin-left: 15px;
+    color: #FECA07;
+}
+i.fa-graduation-cap,i.fa-briefcase, i.fa-pencil-alt{
+    color: #FECA07;
+    font-size: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+    float: left;
+}
+.right_title{
+    font-size: 45px;
+}
+.date{
+    margin-top: -28px;
+    margin-left: 40px;
+    font-size: 22px;
+}
+h5{
+    margin-top: -80px;
+    margin-left: 300px;
+    font-size: 26px;
+}
+h6{
+    margin-top: -24px;
+    margin-left: 300px;
+    font-size: 24px;
+}
+.right_text{   
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 300px;
+    font-size: 23px;
+}
+#ad_1, #ad_2{
+    font-size: 30px;
+}
+#ad_1 h6{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#ad_1 p{
+    margin-left: 20px;
+}
+#ad_2 h6{
+    margin-top: -220px;
+    margin-left: 380px;
+}
+#ad_2 p{
+    margin-left: 380px;
 }
