@@ -21,3 +21,27 @@ Orange (divider) : #FECA07
 *{
     font-family: "calibri", Helvetica, Arial, sans-serif;
 }
+
+/*-------------------*/
+/* ==    GENERAL    */
+/*-----------------*/
+
+h1, h2, h3, h4, h5, h6, p, .p1{
+    color:#404040;
+}
+h5, h6{
+    font-weight: bold;
+}
+.no-padding > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}
+#basic-setup{
+    background-color: #404040;
+}
+.orange{
+    background-color: #FECA07;
+}
+.white{
+    background-color: #fff;
+}
